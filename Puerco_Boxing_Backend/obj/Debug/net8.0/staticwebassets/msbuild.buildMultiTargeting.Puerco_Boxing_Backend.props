@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Puerco_Boxing_Backend.props" />
+</Project>
