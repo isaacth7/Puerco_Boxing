@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2+UVXVqQT8Q=",
+  "dgSpecHash": "tc6UWJQEbes=",
   "success": true,
-  "projectFilePath": "C:\\Users\\isaac\\source\\repos\\Puerco_Boxing_Backend\\Puerco_Boxing_Backend.csproj",
+  "projectFilePath": "C:\\Users\\isaac\\Puerco_Boxing\\Puerco_Boxing_Backend\\Puerco_Boxing_Backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\isaac\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\isaac\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

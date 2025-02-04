@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Puerco_Boxing_Backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37554c0004b51fb9d87857ab247f5e9acac63822")]
 [assembly: System.Reflection.AssemblyProductAttribute("Puerco_Boxing_Backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Puerco_Boxing_Backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

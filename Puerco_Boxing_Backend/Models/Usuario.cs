@@ -4,24 +4,13 @@ namespace Puerco_Boxing_Backend.Models
 {
     public class Usuario
     {
-        [Key]  // Define esta propiedad como clave primaria
         public int Id { get; set; }
-
-        [Required]
-        public string Nombre { get; set; }
-
-        [Required]
-        [EmailAddress]  // Valida que sea un correo electrónico válido
-        public string Correo { get; set; }
-
-        [Required]
-        public string Contraseña { get; set; }
-
-        [Required]
         public string Cedula { get; set; }
-
-        public string Rol { get; set; } = "cliente";
-
-        public DateTime Fecha_Creacion { get; set; } = DateTime.Now;
+        public string Nombre { get; set; }
+        public string Correo { get; set; }
+        public string Contraseña { get; set; }
+        public string Rol { get; set; } // "Cliente" o "Administrador"
+        public string ImagenPerfil { get; set; } // Nueva propiedad para la imagen
     }
+
 }

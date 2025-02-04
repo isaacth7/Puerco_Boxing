@@ -4895,11 +4895,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\isaac\\source\\repos\\Puerco_Boxing_Backend\\Puerco_Boxing_Backend.csproj",
+      "projectUniqueName": "C:\\Users\\isaac\\Puerco_Boxing\\Puerco_Boxing_Backend\\Puerco_Boxing_Backend.csproj",
       "projectName": "Puerco_Boxing_Backend",
-      "projectPath": "C:\\Users\\isaac\\source\\repos\\Puerco_Boxing_Backend\\Puerco_Boxing_Backend.csproj",
+      "projectPath": "C:\\Users\\isaac\\Puerco_Boxing\\Puerco_Boxing_Backend\\Puerco_Boxing_Backend.csproj",
       "packagesPath": "C:\\Users\\isaac\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\isaac\\source\\repos\\Puerco_Boxing_Backend\\obj\\",
+      "outputPath": "C:\\Users\\isaac\\Puerco_Boxing\\Puerco_Boxing_Backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

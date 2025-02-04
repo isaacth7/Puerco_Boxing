@@ -1,5 +1,46 @@
 [
   {
+    "ContainingType": "Puerco_Boxing_Backend.Controllers.HorariosController",
+    "Method": "GetHorarios",
+    "RelativePath": "api/Horarios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Puerco_Boxing_Backend.Controllers.HorariosController",
+    "Method": "ActualizarDisponibilidad",
+    "RelativePath": "api/Horarios/ActualizarDisponibilidad/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "disponible",
+        "Type": "System.Boolean",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Puerco_Boxing_Backend.Controllers.HorariosController",
+    "Method": "GenerarHorarios",
+    "RelativePath": "api/Horarios/GenerarHorarios",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "UsuariosController",
     "Method": "GetUsuarios",
     "RelativePath": "api/Usuarios",
